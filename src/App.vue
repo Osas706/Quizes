@@ -11,6 +11,7 @@ import {RouterView} from "vue-router";
 <style scoped>
 .container{
   max-width: 1020px;
+  height:100vh;
   margin: 20px auto;
 }
 </style>
