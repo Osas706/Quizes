@@ -10,8 +10,10 @@ import {RouterView} from "vue-router";
 
 <style scoped>
 .container{
-  max-width: 1020px;
+  max-width: 1060px;
   height:100vh;
-  margin: 20px auto;
+  margin: 0 auto;
+  padding: 30px 20px;
+  background-color: rgb(200, 218, 224);
 }
 </style>
