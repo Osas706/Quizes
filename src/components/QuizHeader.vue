@@ -23,6 +23,7 @@ header {
 
 header h4 {
   font-size: 30px;
+  color: black;
 }
 
 .bar {

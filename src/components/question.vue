@@ -54,6 +54,7 @@ font-size: 30px;
 display: flex;
 align-items: center;
 justify-content: center;
+color: black;
 }
 
 .option-value{
@@ -63,5 +64,6 @@ justify-content: center;
     padding: 0 20px;
     display: flex;
     align-items: center;
+    color: black;
 }
 </style>

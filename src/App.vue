@@ -15,5 +15,6 @@ import {RouterView} from "vue-router";
   margin: 0 auto;
   padding: 30px 20px;
   background-color: rgb(200, 218, 224);
+  color: black;
 }
 </style>

@@ -37,6 +37,7 @@ header{
 header h1{
   font-weight: bold;
   margin-right: 30px;
+  color: black;
 }
 
 header input{
@@ -44,7 +45,7 @@ header input{
   background-color: rgba(128, 128, 128, 0.1);
   padding: 10px;
   border-radius: 5px;
-
+  color: black;
 }
 
 .options-container{

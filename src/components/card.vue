@@ -44,5 +44,6 @@
 
 .card .card-text h2{
   font-weight: bold;
+  color: black;
 }
 </style>

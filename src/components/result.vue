@@ -25,10 +25,12 @@
 
 p{
     font-size: 25px;
+    color: black;
 }
 
 h1{
     font-size: 80px;
+    color: black;
 }
 
 .home {
